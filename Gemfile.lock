@@ -1,7 +1,8 @@
 PATH
   remote: .
   specs:
-    jekyll (~> 4.1)
+    ipa (0.1.0)
+      jekyll (~> 4.1)
 
 GEM
   remote: https://rubygems.org/
@@ -64,6 +65,9 @@ GEM
 
 PLATFORMS
   ruby
+
+DEPENDENCIES
+  ipa!
 
 BUNDLED WITH
    2.1.4
