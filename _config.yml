@@ -16,7 +16,7 @@ description: |
     cover a few other tools for data science including best coding practices, basic python, 
     software unit testing, and continuous integration services. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://benkeser.github.io/course-website/" # the base hostname & protocol for your site
+url: "https://benkeser.github.io/course-website" # the base hostname & protocol for your site
 
 # host the syllabus on google docs
 # File: Publish to Web
