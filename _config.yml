@@ -1,32 +1,38 @@
 # Site settings
-title: Course Website
-subtitle: Title of the Course
+title: INFO550
+subtitle: Data Science Toolkit
 description: |
-    Add a description of your course. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Etiam fermentum massa id justo varius, vitae blandit nibh aliquet. 
-    Nam consequat accumsan massa id lacinia. Proin ac placerat neque. Vivamus ornare eget tortor ac tincidunt. 
-    Mauris semper viverra dui in molestie. Proin bibendum metus orci, quis sollicitudin ligula pretium non. 
-    Integer nec lacus eget neque laoreet semper. Pellentesque eu dolor rutrum, consectetur enim nec, fermentum odio. 
-    Duis venenatis metus cursus, ultrices nulla in, dapibus urna. Fusce pellentesque eros sed justo viverra ultricies. 
-    Morbi porttitor dui ut erat congue accumsan. Donec eget turpis quam. Nam quis lobortis nisl. 
-    Pellentesque varius tincidunt purus, dictum sodales leo suscipit quis. 
-    Proin ullamcorper tristique nisi, quis hendrerit turpis. Donec non congue velit. 
-    Praesent accumsan odio egestas, mollis lorem eget, euismod arcu. 
+    This course is an elective for Masters and PhD students at 
+    <a href='https://www.sph.emory.edu/'>Emory University Rollins School of Public Health</a>. 
+    The course covers some fundamental tools used in modern (reproducible) data science. 
+    Together, these tools 
+    provide the ability to develop fully reproducible pipelines for data 
+    analysis. By the end of the course students will have learned the tools necessary to: 
+    develop reproducible workflows collaboratively (using version control based on Git/GitHub), 
+    execute these workflows on a local computer (using command line operations, RMarkdown, 
+    and GNU Makefiles), execute the workflows in a containerized environment allowing 
+    end-to-end reproducibility (using Docker), and execute the workflow in a cloud 
+    environment (using Amazon Web Services EC2 and S3 services). Along the way, we will 
+    cover a few other tools for data science including best coding practices, basic python, 
+    software unit testing, and continuous integration services. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://course-website.svmiller.com" # the base hostname & protocol for your site
-syllabus: "https://github.com/svmiller/svm-r-markdown-templates/blob/master/syllabus-example/svm-rmarkdown-syllabus-example.pdf"
-githubdir: "svmiller/course-website"
+url: "http://todo.com" # the base hostname & protocol for your site
+
+# host the syllabus on google docs
+# File: Publish to Web
+syllabus_url: "https://docs.google.com/document/d/e/2PACX-1vTPKXf13lffq2wiZuAB11OnPJQe1pNXvPEjhxiceAk5Bs164L0wyQzmksjeotB_VjT-xf_TY-zHqimS/pub?embedded=true"
+githubdir: "benkeser/info550"
 
 # Author/user information
-email: svmille@clemson.edu
-twitter_username: stevenvmiller
-github_username:  svmiller
-authorurl: "http://svmiller.com"
+email: benkeser@emory.edu
+twitter_username: TODO
+github_username:  benkeser
+authorurl: "http://TODO.com"
 address: |
-    Department of Political Science
-    232 Brackett Hall
-    Clemson, SC 29634-1354
-
+    Emory University
+    Department of Biostatistics and Bioinformatics
+    1518 Clifton Rd. NE
+    Atlanta, GA 30322
 
 # Build settings
 markdown: kramdown

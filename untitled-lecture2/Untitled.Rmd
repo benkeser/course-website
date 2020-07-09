@@ -1,9 +1,9 @@
 ---
-title: "Untitled"
+title: "Untitled 2"
 author: "Steven V. Miller"
 date: "8/11/2018"
-tldr: "Some text goes here"
-recording: ""
+tldr: "Some different text goes here for the second lecture"
+recording: "https://rsph.hosted.panopto.com/"
 output: ioslides_presentation
 ---
 
