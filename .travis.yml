@@ -14,3 +14,4 @@ script:
 - COMMIT_RANGE="$(echo ${TRAVIS_COMMIT_RANGE//.../..})"
 - CHANGED_FILES="$(git diff --diff-filter=MA --name-only ${COMMIT_RANGE})"
 - echo $CHANGED_FILES
+- CHANGED_RMDFILES="$(git diff --diff-filter=MA --name-only ${COMMIT_RANGE} -- | grep '.Rmd')"
