@@ -1,10 +1,12 @@
 - dirname: untitled-lecture
   filename: Untitled
+  reading: reproducible-research
   recording: ''
-  title: Untitled
-  tldr: Some text goes here
+  title: Reproducible research
+  tldr: An awesome lecture on reproducible research
 - dirname: untitled-lecture2
   filename: Untitled
+  reading: text-editors
   recording: https://rsph.hosted.panopto.com/
   title: Untitled 2
   tldr: Some different text goes here for the second lecture

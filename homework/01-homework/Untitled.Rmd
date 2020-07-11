@@ -1,10 +1,9 @@
 ---
-title: "Untitled"
-author: "Steven V. Miller"
+title: "Reproducible research homework"
+author: "David Benkeser"
 date: "8/11/2018"
-tldr: "Some text goes here"
-recording: ""
-output: ioslides_presentation
+due: "8/11/2019"
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}

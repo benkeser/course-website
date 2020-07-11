@@ -1,6 +1,6 @@
-Steve's No-Good-Very-Bad Course Website Jekyll Template
+INFO 550 
 =======================================================
-
+<!--
 This repository contains a Jekyll template, patterned entirely off my no-good-very-bad Jekyll Template at [svmiller.com](http://svmiller.com), for organizing a course website. I should note that because I ganked it from my website template, there's a lot of empty tags in the template that make reference to things that don't appear in the main `.yml` file. In other words, they reference things that should be there but, because they're not there, ultimately won't interfere with how the site renders.
 
 
@@ -102,3 +102,4 @@ You can see a snapshot of what it looks like below. You can also try it out here
 ![Snapshot](_images/snapshot.png)
 
 Feel free to contact me at svmille@clemson.edu. Send along some cheers too if you find it useful.
+--> 

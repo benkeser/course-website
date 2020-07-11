@@ -4,6 +4,7 @@ author: "Steven V. Miller"
 date: "8/11/2018"
 tldr: "Some different text goes here for the second lecture"
 recording: "https://rsph.hosted.panopto.com/"
+reading: text-editors
 output: ioslides_presentation
 ---
 
