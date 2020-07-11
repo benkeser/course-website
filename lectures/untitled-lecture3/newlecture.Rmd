@@ -23,7 +23,7 @@ One __slide is here__ and boy does it look great!
 
 $$X_1 + X_2 - X_3$$
 
-And here is some $X_1 + \alpha_2$
+And here is some $X_1 + \alpha_2$!
 
 ```r
 with <- "some code"
